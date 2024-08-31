@@ -1,5 +1,6 @@
 {
   "name": "family-monorepo",
+  "private": true,
   "description": "A minimal Electron framework",
   "type": "module",
   "scripts": {
