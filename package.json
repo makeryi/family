@@ -1,7 +1,6 @@
 {
   "name": "monorepo",
   "private": true,
-  "description": "A minimal Electron framework",
   "type": "module",
   "scripts": {
     "build": "turbo run build",
