@@ -1,0 +1,12 @@
+packages:
+  - 'packages/*'
+
+catalog:
+  '@tanstack/react-query': ^5.53.1
+  '@types/node': ^22.5.1
+  electron: ^32.0.1
+  electron-builder: ^24.13.3
+  tsup: ^8.2.4
+  typescript: ^5.5.4
+  vite: ^5.4.2
+  vitest: ^2.0.5
