@@ -14,10 +14,7 @@
     "vitest": "catalog:"
   },
   "peerDependencies": {
-    "@tanstack/react-query": "catalog:",
-    "electron": "catalog:",
-    "electron-builder": "catalog:",
-    "vite": "catalog:"
+    "@tanstack/react-query": "catalog:"
   },
   "optionalDependencies": {
     "@tanstack/react-query": "catalog:"
