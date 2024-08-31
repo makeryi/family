@@ -2,7 +2,6 @@ packages:
   - 'packages/*'
 
 catalog:
-  '@tanstack/react-query': ^5.53.1
   '@types/node': ^22.5.1
   electron: ^32.0.1
   electron-builder: ^24.13.3

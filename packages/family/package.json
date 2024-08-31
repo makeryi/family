@@ -4,7 +4,6 @@
   "description": "A minimal Electron framework",
   "type": "module",
   "devDependencies": {
-    "@tanstack/react-query": "catalog:",
     "@types/node": "catalog:",
     "electron": "catalog:",
     "electron-builder": "catalog:",
@@ -12,12 +11,6 @@
     "typescript": "catalog:",
     "vite": "catalog:",
     "vitest": "catalog:"
-  },
-  "peerDependencies": {
-    "@tanstack/react-query": "catalog:"
-  },
-  "optionalDependencies": {
-    "@tanstack/react-query": "catalog:"
   },
   "packageManager": "pnpm@9.9.0"
 }
