@@ -1,6 +1,12 @@
 {
   "name": "monorepo",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Ace",
+    "email": "hello@makeryi.me",
+    "url": "https://makeryi.me"
+  },
   "type": "module",
   "scripts": {
     "build": "turbo run build",

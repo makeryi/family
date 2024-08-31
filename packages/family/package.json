@@ -2,6 +2,16 @@
   "name": "family",
   "version": "0.0.0",
   "description": "A minimal Electron framework",
+  "homepage": "https://github.com/makeryi/family",
+  "bugs": {
+    "url": "https://github.com/makeryi/family/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ace",
+    "email": "hello@makeryi.me",
+    "url": "https://makeryi.me"
+  },
   "type": "module",
   "devDependencies": {
     "@types/node": "catalog:",
